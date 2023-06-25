@@ -10,7 +10,7 @@
 
 ### Usage
 
-1. Open [site](https://hughchen.github.io/qr_image/).
+1. Open [site](https://qrcode.simpleprivacy.fr/).
 2. Upload an image.
 3. Enter the URL.
 4. Adjust parameters.
